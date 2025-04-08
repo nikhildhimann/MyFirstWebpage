@@ -18,7 +18,7 @@ To run this project locally:
 
 Clone the repository:
 
-git clone https://github.com/professor9026/MyFirstWebpage.git
+git clone https://github.com/nikhildhimann/MyFirstWebpage.git
 Open index.html in your browser.
 🌍 Live Demo (Optional)
 If deployed, add the link here:
@@ -29,4 +29,4 @@ HTML structure & semantic elements
 Styling with CSS
 Linking external resources
 🤝 Connect With Me
-🔗 Twitter (X): @professor9015
+🔗 Twitter (X): @nikhildhiman_0
