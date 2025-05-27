@@ -1,5 +1,5 @@
-🌐 My First Webpage
-🚀 Welcome to my first webpage! This project is a simple yet structured webpage built using HTML & CSS.
+# 🌐 My First Webpage
+# 🚀 Welcome to my first webpage! This project is a simple yet structured webpage built using HTML & CSS.
 
 📌 Features
 ✅ Clean and structured HTML
@@ -20,9 +20,6 @@ Clone the repository:
 
 git clone https://github.com/nikhildhimann/MyFirstWebpage.git
 Open index.html in your browser.
-🌍 Live Demo (Optional)
-If deployed, add the link here:
-🔗 Live Project
 
 📌 What I Learned
 HTML structure & semantic elements
